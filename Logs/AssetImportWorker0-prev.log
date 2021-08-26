@@ -1,0 +1,803 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 12249 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Users/tillo/Documents/1multec D/2020/Alternate/Tank Turorial
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58166
+Successfully changed project path to: D:/Users/tillo/Documents/1multec D/2020/Alternate/Tank Turorial
+D:/Users/tillo/Documents/1multec D/2020/Alternate/Tank Turorial
+Using Asset Import Pipeline V2.
+Assets/ENVIROMENT_FUT/Cops/uploads_files_53600_Wall_Cell_Shield.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Refreshing native plugins compatible for Editor in 165.65 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Users/tillo/Documents/1multec D/2020/Alternate/Tank Turorial/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   
+    VRAM:     8081 MB
+    Driver:   27.21.14.6280
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003539 seconds.
+Native extension for WindowsStandalone target not found
+Assets/ENVIROMENT_FUT/Cops/uploads_files_53600_Wall_Cell_Shield.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Refreshing native plugins compatible for Editor in 147.83 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.970 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.024969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Assets/ENVIROMENT_FUT/Cops/uploads_files_53600_Wall_Cell_Shield.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Refreshing native plugins compatible for Editor in 123.02 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.619 seconds
+Platform modules already initialized, skipping
+Assets/ENVIROMENT_FUT/Cops/uploads_files_53600_Wall_Cell_Shield.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+========================================================================
+Worker process is ready to serve import requests
+Assets/ENVIROMENT_FUT/Cops/uploads_files_53600_Wall_Cell_Shield.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.18 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4865 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 217.3 MB.
+System memory in use after: 217.5 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 5303.
+Total: 8.837700 ms (FindLiveObjects: 0.492000 ms CreateObjectMapping: 0.267100 ms MarkObjects: 7.880800 ms  DeleteObjects: 0.196300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Parallax_Building_Lit.mat
+  artifactKey: Guid(35f78bb21677d704987a53da10b5b431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Parallax_Building_Lit.mat using Guid(35f78bb21677d704987a53da10b5b431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ecf679da4a064b5e86766eb12d82e66') in 0.545902 seconds
+  Import took 0.575757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_Building_Sides_URP.mat
+  artifactKey: Guid(d7b668fa7f6185b4e94ada72d638f724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_Building_Sides_URP.mat using Guid(d7b668fa7f6185b4e94ada72d638f724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaec0fda5fcb1bb451d172d8453d70e8') in 0.758244 seconds
+  Import took 0.787608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_SimpleRoom_2_URP.mat
+  artifactKey: Guid(ec00b83d4fb1c93428f167af98cbed51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_SimpleRoom_2_URP.mat using Guid(ec00b83d4fb1c93428f167af98cbed51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a53a7cfd20baf6a61d18dfe3977f03') in 0.020303 seconds
+  Import took 0.059525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Parallax_Building_Sides.mat
+  artifactKey: Guid(785862b4f3f8b964597b246936f5dbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Parallax_Building_Sides.mat using Guid(785862b4f3f8b964597b246936f5dbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f26f2930a1acc2aa8f27e4b67683d32') in 0.140564 seconds
+  Import took 0.168206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000612 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Parallax_SimpleRoom_2.mat
+  artifactKey: Guid(abd6844e627461345988248d46b9204a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Parallax_SimpleRoom_2.mat using Guid(abd6844e627461345988248d46b9204a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d76f1bb9bb1072762558dd8d849cecf') in 0.019218 seconds
+  Import took 0.029126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_BrickRoom_2_URP.mat
+  artifactKey: Guid(702520921200e814dad17f7e5f7030de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_BrickRoom_2_URP.mat using Guid(702520921200e814dad17f7e5f7030de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ea3460f8cc9dba8343903519a784823') in 0.599799 seconds
+  Import took 0.631546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000530 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_BrickRoom_3_URP.mat
+  artifactKey: Guid(12b1e3f1f361a884aa1b43de0fd4fa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_BrickRoom_3_URP.mat using Guid(12b1e3f1f361a884aa1b43de0fd4fa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b567d627a0f2766322c3ea07e93f447c') in 0.062067 seconds
+  Import took 0.070736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Parallax_SimpleRoom_1.mat
+  artifactKey: Guid(a92ea1babe575b3409639d76f3eedb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Parallax_SimpleRoom_1.mat using Guid(a92ea1babe575b3409639d76f3eedb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f8a401954835d2bf3c052e1ae52fb6') in 0.036489 seconds
+  Import took 0.052634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_SimpleRoom_1_URP.mat
+  artifactKey: Guid(34b34f3e9acabbf42bd494a66afd4654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_SimpleRoom_1_URP.mat using Guid(34b34f3e9acabbf42bd494a66afd4654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be8ab1c1c7e999175361b40fac268848') in 0.699924 seconds
+  Import took 0.730598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_BrickRoom_1_URP.mat
+  artifactKey: Guid(ce87b4c024be31443bc1fe608ae075bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_BrickRoom_1_URP.mat using Guid(ce87b4c024be31443bc1fe608ae075bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4f811b1636882e016343f892c26cd1') in 0.078234 seconds
+  Import took 0.094043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Parallax_BrickRoom_2.mat
+  artifactKey: Guid(e2d6adaf676bfd0419a539e20769b41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Parallax_BrickRoom_2.mat using Guid(e2d6adaf676bfd0419a539e20769b41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8229b27a3c0556577645d2673e9e7f8f') in 0.078656 seconds
+  Import took 0.101255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Parallax_Building_Rooms.mat
+  artifactKey: Guid(222b594a70d9ead4290e16acddfff03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Parallax_Building_Rooms.mat using Guid(222b594a70d9ead4290e16acddfff03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a0a521ede664cf196d4ebff8cd9ebb') in 0.070162 seconds
+  Import took 0.083719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Parallax_BrickRoom_1.mat
+  artifactKey: Guid(e1e615fd05897254faa21d9cdd47446f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Parallax_BrickRoom_1.mat using Guid(e1e615fd05897254faa21d9cdd47446f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b069dcacf79b644b413621676ad9043d') in 0.071248 seconds
+  Import took 0.089981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_Building_Rooms_URP.mat
+  artifactKey: Guid(da29a4e382eec9446a281b3e41d9d959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_Building_Rooms_URP.mat using Guid(da29a4e382eec9446a281b3e41d9d959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58546e0cf7cd53e56c7349e526a01e80') in 0.080198 seconds
+  Import took 0.093870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Parallax_BrickRoom_3.mat
+  artifactKey: Guid(8c4ce0a8cb6cd73488aef26c9531be70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Parallax_BrickRoom_3.mat using Guid(8c4ce0a8cb6cd73488aef26c9531be70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc4b4295e2634b79f59eec1668981c6') in 0.062258 seconds
+  Import took 0.074965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_Building_Lit_URP.mat
+  artifactKey: Guid(08b2159479a8d914a82340ccb709f8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_Building_Lit_URP.mat using Guid(08b2159479a8d914a82340ccb709f8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37eeb9009049f7ba8f679ff921e25af6') in 0.068745 seconds
+  Import took 0.086026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.849617 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Facade_1.tga
+  artifactKey: Guid(2b8f0780fef09d44a8603f5d452c2d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Facade_1.tga using Guid(2b8f0780fef09d44a8603f5d452c2d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67497051f0108c78504b470942b52b9') in 0.053735 seconds
+  Import took 0.093164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Facade_1_Smoothness.png
+  artifactKey: Guid(287e0edacb2bafd4cb5f0932536026ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Facade_1_Smoothness.png using Guid(287e0edacb2bafd4cb5f0932536026ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb4dc44745d97757623e1fb2a741728') in 0.083721 seconds
+  Import took 0.100980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/OfficeProps_2.tga
+  artifactKey: Guid(e17c19fee7d6ad042a243d1751e2dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/OfficeProps_2.tga using Guid(e17c19fee7d6ad042a243d1751e2dc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5c317a116f0fb3a1ba3f19ffa69d26') in 0.013412 seconds
+  Import took 0.033692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Facade_1_Smoothness.png
+  artifactKey: Guid(287e0edacb2bafd4cb5f0932536026ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Facade_1_Smoothness.png using Guid(287e0edacb2bafd4cb5f0932536026ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb4dc44745d97757623e1fb2a741728') in 0.014207 seconds
+  Import took 0.024424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/WoodFloor.png
+  artifactKey: Guid(6d4c2362b588b0747af877613b166400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/WoodFloor.png using Guid(6d4c2362b588b0747af877613b166400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a016557a77d289b3a0972e1eb3be0cc') in 0.026722 seconds
+  Import took 0.038523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/BrickWall_4.png
+  artifactKey: Guid(e156cc7c25a806a4bb1f94743200be0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/BrickWall_4.png using Guid(e156cc7c25a806a4bb1f94743200be0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d462600dd5662139843b6b244aa538c') in 0.013610 seconds
+  Import took 0.034189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/Ceiling.png
+  artifactKey: Guid(1d90ad99875b3cf4a8fadae6c7225db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/Ceiling.png using Guid(1d90ad99875b3cf4a8fadae6c7225db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbdd7cd2146b6ef8e23dc7cbd0ccea5') in 0.012228 seconds
+  Import took 0.037364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000627 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Facade_1.tga
+  artifactKey: Guid(2b8f0780fef09d44a8603f5d452c2d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Facade_1.tga using Guid(2b8f0780fef09d44a8603f5d452c2d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67497051f0108c78504b470942b52b9') in 0.028498 seconds
+  Import took 0.038736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/BrickWall_3.png
+  artifactKey: Guid(123306b02e5cc314186cc4b7b00cc05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/BrickWall_3.png using Guid(123306b02e5cc314186cc4b7b00cc05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc60f50250fe46b48d7c13ce5e9b2fbc') in 0.016155 seconds
+  Import took 0.026639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.390818 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Brick_A.png
+  artifactKey: Guid(145a72a5927189146b837129ae9590a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Brick_A.png using Guid(145a72a5927189146b837129ae9590a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d7efa56966e8b4cbe2e8904c2f0654') in 0.019642 seconds
+  Import took 0.046776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_2_A.png
+  artifactKey: Guid(5389ab84e21a68f4c9483d7598dca9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_2_A.png using Guid(5389ab84e21a68f4c9483d7598dca9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb570dd953b00ffbb29f6bc3804fd09') in 0.015710 seconds
+  Import took 0.081870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Brick_A.png
+  artifactKey: Guid(145a72a5927189146b837129ae9590a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Brick_A.png using Guid(145a72a5927189146b837129ae9590a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d7efa56966e8b4cbe2e8904c2f0654') in 0.014515 seconds
+  Import took 0.025847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_1_N.png
+  artifactKey: Guid(6d24dc9887b372b409d4f5ac2460c1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_1_N.png using Guid(6d24dc9887b372b409d4f5ac2460c1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda06174ea00a9d76af59b142713c047') in 0.016254 seconds
+  Import took 0.075583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_2_N.png
+  artifactKey: Guid(72deb9d610d7bcb4fae634da13e9c0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_2_N.png using Guid(72deb9d610d7bcb4fae634da13e9c0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0a183b10c13c51b5a611a2c7eeb875') in 0.014558 seconds
+  Import took 0.043660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/SimpleRoom/Ceiling_1.png
+  artifactKey: Guid(a537a7ab8a156084b9f97d2747ed63b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/SimpleRoom/Ceiling_1.png using Guid(a537a7ab8a156084b9f97d2747ed63b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245c97b95df77fa2ca80c6f26595a963') in 0.015238 seconds
+  Import took 0.044932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Brick_N.png
+  artifactKey: Guid(e2f374f43d66c9647a243c4972f11b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Brick_N.png using Guid(e2f374f43d66c9647a243c4972f11b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7daa5a77da3da88a6e3224f7bb1b16') in 0.014243 seconds
+  Import took 0.029298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/BrickWall_2.png
+  artifactKey: Guid(abb1811ac43b93646b36aa1a1393de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/BrickWall_2.png using Guid(abb1811ac43b93646b36aa1a1393de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20eb758de2acd91186972be4cd683df0') in 0.014223 seconds
+  Import took 0.035911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Concrete_N.png
+  artifactKey: Guid(ae9c342e68d2441429e932d7b9cf9da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Concrete_N.png using Guid(ae9c342e68d2441429e932d7b9cf9da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1bb34999c59ada7225d96d2075dff1') in 0.015162 seconds
+  Import took 0.026531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Concrete_R.png
+  artifactKey: Guid(9efde281806c64a4bad6d6e3ecddda8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Concrete_R.png using Guid(9efde281806c64a4bad6d6e3ecddda8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c607c3ba04be70529b4b510a74f2a104') in 0.015266 seconds
+  Import took 0.035944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Ceiling.png
+  artifactKey: Guid(f59e9b3881f665b40bae6af71cd09554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Ceiling.png using Guid(f59e9b3881f665b40bae6af71cd09554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf357852cc40b9a078af94adae74e4ad') in 0.012612 seconds
+  Import took 0.023184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000712 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_1_A.png
+  artifactKey: Guid(01cdfd5dfd111764fa54a2adf0413369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_1_A.png using Guid(01cdfd5dfd111764fa54a2adf0413369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd712ae078d940924285d1d77ff5c5e6b') in 0.017244 seconds
+  Import took 0.048424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/BrickWall_1.png
+  artifactKey: Guid(acb89b371f199934f99528ed6cfeabbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/BrickWall_1.png using Guid(acb89b371f199934f99528ed6cfeabbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5cdbb4bb87bdb0d221818e274b5ac3') in 0.016529 seconds
+  Import took 0.039715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_2.png
+  artifactKey: Guid(6db7e01c005126b4f8508b8c98116950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_2.png using Guid(6db7e01c005126b4f8508b8c98116950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d7ecda89e33c1990958cfbd2a1ea7d') in 0.016646 seconds
+  Import took 0.027092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Materials/Metal textures pack/pattern 27/diffuse.tga
+  artifactKey: Guid(8b49dcf0d7ef75b44bfd5db35dab7da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Metal textures pack/pattern 27/diffuse.tga using Guid(8b49dcf0d7ef75b44bfd5db35dab7da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dce523e7031f85c3d91216bf6a06cbd') in 0.114548 seconds
+  Import took 0.134041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Concrete_A.png
+  artifactKey: Guid(34dc8e7f599c52544a147f84b107ebef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Concrete_A.png using Guid(34dc8e7f599c52544a147f84b107ebef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f313355e728abb677cbf39d4a696c4cd') in 0.016282 seconds
+  Import took 0.039760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/Brick_R.png
+  artifactKey: Guid(03c8f0b529da097468dbc40201fa2b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/Brick_R.png using Guid(03c8f0b529da097468dbc40201fa2b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87bad65f468d473bed23bb935471e00f') in 0.015418 seconds
+  Import took 0.034787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Materials/Metal textures pack/pattern 17/diffuse.tga
+  artifactKey: Guid(31e7ef16a03d6664a89af4f8fbf40b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Metal textures pack/pattern 17/diffuse.tga using Guid(31e7ef16a03d6664a89af4f8fbf40b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795eacce2bd04a24a20db91014036d87') in 0.114204 seconds
+  Import took 0.125364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_1_R.png
+  artifactKey: Guid(2fbac78fb8e278f449ff1ea908df8243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/SimpleBuilding/Concrete_1_R.png using Guid(2fbac78fb8e278f449ff1ea908df8243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee8d01621f3b27549410a1b9dda2c0c') in 0.015215 seconds
+  Import took 0.089734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 231.693265 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/OfficeProps_1.tga
+  artifactKey: Guid(f6ab736756a88344ea49ec537d9ef633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Textures/BrickRoom/OfficeProps_1.tga using Guid(f6ab736756a88344ea49ec537d9ef633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c798ed4a5ad29b2b53e9c2b705d04d9') in 0.016379 seconds
+  Import took 0.082684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 712.545070 seconds.
+  path: Assets/Scenes/intro.unity
+  artifactKey: Guid(48bf4d96a2264824192b3a195aa50a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/intro.unity using Guid(48bf4d96a2264824192b3a195aa50a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '640f9dc2d1aee020e6d6ce41cc109df1') in 0.006789 seconds
+  Import took 0.054880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.549857 seconds.
+  path: Assets/Fake Interiors FREE/Examples
+  artifactKey: Guid(f0f76dff67becc94caca29bfb8b06e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples using Guid(f0f76dff67becc94caca29bfb8b06e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b492375e8ad17939b201bdd97e408c6e') in 0.004293 seconds
+  Import took 0.014376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.393116 seconds.
+  path: Assets/Fake Interiors FREE/Examples/SimpleFacade.unity
+  artifactKey: Guid(066c721f5eedd5943a2bdd0e9d699e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/SimpleFacade.unity using Guid(066c721f5eedd5943a2bdd0e9d699e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b36b3e15d385533e72790f7407485f') in 0.005816 seconds
+  Import took 0.030556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.298772 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP
+  artifactKey: Guid(8c172150296021a44849d7b84b55a06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP using Guid(8c172150296021a44849d7b84b55a06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4027b047e97e34b6d7404bacbc54fada') in 0.004870 seconds
+  Import took 0.057045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.324472 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Shaders URP
+  artifactKey: Guid(02b2f5e500eccb541955f9150e54f014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Shaders URP using Guid(02b2f5e500eccb541955f9150e54f014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e57551fc1a4aa6ae51e76a5fdcba24a') in 0.004510 seconds
+  Import took 0.016802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.769076 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Scenes URP
+  artifactKey: Guid(f16a9e34fb0ae5f469a33bcf8b8cb86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Scenes URP using Guid(f16a9e34fb0ae5f469a33bcf8b8cb86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eee9578c60cae009be3c70cc0172f5f') in 0.004827 seconds
+  Import took 0.054303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.314613 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Scenes URP/SimpleFacadeURP.unity
+  artifactKey: Guid(f0a9be9d0dfc79548b44282ec8e03e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Scenes URP/SimpleFacadeURP.unity using Guid(f0a9be9d0dfc79548b44282ec8e03e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e9426aca169880c1192950517b6759') in 0.004867 seconds
+  Import took 0.039152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.603127 seconds.
+  path: Assets/Scenes/intro.unity
+  artifactKey: Guid(48bf4d96a2264824192b3a195aa50a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/intro.unity using Guid(48bf4d96a2264824192b3a195aa50a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee8efae6f93efdbd8c694636b8e0766') in 0.005644 seconds
+  Import took 0.070064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 479.655824 seconds.
+  path: Assets/ENVIROMENT_FUT/Store/Materials/accent_color_store_orange.mat
+  artifactKey: Guid(846f9eddd44574143a0f798bf692cc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ENVIROMENT_FUT/Store/Materials/accent_color_store_orange.mat using Guid(846f9eddd44574143a0f798bf692cc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '363dbf7a5b306583aaef19a3036a5a02') in 0.063401 seconds
+  Import took 0.127171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004691 seconds.
+  path: Assets/ENVIROMENT_FUT/Store/Materials/accent_color_store_orange.mat
+  artifactKey: Guid(846f9eddd44574143a0f798bf692cc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ENVIROMENT_FUT/Store/Materials/accent_color_store_orange.mat using Guid(846f9eddd44574143a0f798bf692cc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '363dbf7a5b306583aaef19a3036a5a02') in 0.013131 seconds
+  Import took 0.023624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.209414 seconds.
+  path: Assets/Blender-import/playerAI2.fbx
+  artifactKey: Guid(b6426c0862ce4dc40920200a741bfa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/playerAI2.fbx using Guid(b6426c0862ce4dc40920200a741bfa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e577c19ba6a1a50cb067a210cd4c737c') in 0.462203 seconds
+  Import took 0.489326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.217910 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Base.mat
+  artifactKey: Guid(f34719a3b05799947aaf294962002958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Base.mat using Guid(f34719a3b05799947aaf294962002958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2139ac41e2c7119b979ff9d38b31938d') in 0.011694 seconds
+  Import took 0.087481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/BaseURP.mat
+  artifactKey: Guid(490409978a7d4c4419c1c5bffd66dbb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/BaseURP.mat using Guid(490409978a7d4c4419c1c5bffd66dbb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1220b24a74032b2033817147d2407e') in 0.013045 seconds
+  Import took 0.075345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Base.mat
+  artifactKey: Guid(f34719a3b05799947aaf294962002958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Base.mat using Guid(f34719a3b05799947aaf294962002958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2139ac41e2c7119b979ff9d38b31938d') in 0.012872 seconds
+  Import took 0.023255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/BaseURP.mat
+  artifactKey: Guid(490409978a7d4c4419c1c5bffd66dbb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/BaseURP.mat using Guid(490409978a7d4c4419c1c5bffd66dbb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1220b24a74032b2033817147d2407e') in 0.014356 seconds
+  Import took 0.025010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.947159 seconds.
+  path: Assets/Blender-import/playerAI2.fbx
+  artifactKey: Guid(b6426c0862ce4dc40920200a741bfa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/playerAI2.fbx using Guid(b6426c0862ce4dc40920200a741bfa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfa8d660fb27af8fce1220a289ff51eb') in 0.252039 seconds
+  Import took 0.301675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.203402 seconds.
+  path: Assets/Blender-import/playerAI2.fbx
+  artifactKey: Guid(b6426c0862ce4dc40920200a741bfa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/playerAI2.fbx using Guid(b6426c0862ce4dc40920200a741bfa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09e18873b2012c378b806252ac7df1f') in 0.209903 seconds
+  Import took 0.263231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.107781 seconds.
+  path: Assets/Blender-import/blender-materials/Accent.001.mat
+  artifactKey: Guid(07ca35f7cd95fb6458e18911859e0860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/Accent.001.mat using Guid(07ca35f7cd95fb6458e18911859e0860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d40d5a2b343d831e31f51d1658c77a') in 0.026468 seconds
+  Import took 0.050584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Blender-import/blender-materials/Metal.001.mat
+  artifactKey: Guid(23fcf9fc0c127e344a5a4e45ac6302f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/Metal.001.mat using Guid(23fcf9fc0c127e344a5a4e45ac6302f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e10b89e948b8d2533f4e5f8130d3f4') in 0.018122 seconds
+  Import took 0.090435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Blender-import/blender-materials/Accent.001.mat
+  artifactKey: Guid(07ca35f7cd95fb6458e18911859e0860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/Accent.001.mat using Guid(07ca35f7cd95fb6458e18911859e0860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d40d5a2b343d831e31f51d1658c77a') in 0.050441 seconds
+  Import took 0.059534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Blender-import/blender-materials/Accent.003.mat
+  artifactKey: Guid(2c9cfe3222aa32f42959a0626944bd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/Accent.003.mat using Guid(2c9cfe3222aa32f42959a0626944bd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e920d6079140cf921f91d542b1b71ed') in 0.012084 seconds
+  Import took 0.061416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/Blender-import/blender-materials/Glass.001 1.mat
+  artifactKey: Guid(0756b8922af0375468a8fac7f810ff84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/Glass.001 1.mat using Guid(0756b8922af0375468a8fac7f810ff84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44eddb1b291ad63c6ea187df1b762049') in 0.013219 seconds
+  Import took 0.023280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Blender-import/blender-materials/Accent.003.mat
+  artifactKey: Guid(2c9cfe3222aa32f42959a0626944bd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/Accent.003.mat using Guid(2c9cfe3222aa32f42959a0626944bd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e920d6079140cf921f91d542b1b71ed') in 0.013534 seconds
+  Import took 0.024249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Blender-import/blender-materials/Black.001.mat
+  artifactKey: Guid(52f2c921a5fce334d842283b1bc543a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/Black.001.mat using Guid(52f2c921a5fce334d842283b1bc543a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524da2939f4ac01b5420f431a9c0a44c') in 0.013634 seconds
+  Import took 0.044789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000560 seconds.
+  path: Assets/Blender-import/blender-materials/light.001.mat
+  artifactKey: Guid(f85167bb420e52340a050699f230293c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/light.001.mat using Guid(f85167bb420e52340a050699f230293c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c196a13cba483022990b6df1a99d37a') in 0.018697 seconds
+  Import took 0.062025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Blender-import/blender-materials/badge-tag-logo.001.mat
+  artifactKey: Guid(fc0782cf619be56499b9d647f5999578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/badge-tag-logo.001.mat using Guid(fc0782cf619be56499b9d647f5999578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2bcfc2bd2487545537554afebbedfe2') in 0.021451 seconds
+  Import took 0.062423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Blender-import/blender-materials/light.003.mat
+  artifactKey: Guid(adc38b1b5271c4840ba486b531083bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/light.003.mat using Guid(adc38b1b5271c4840ba486b531083bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524fa5e545f491998ecadfaf35d00e3f') in 0.025902 seconds
+  Import took 0.037578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000701 seconds.
+  path: Assets/Blender-import/blender-materials/badge-tag-logo.001.mat
+  artifactKey: Guid(fc0782cf619be56499b9d647f5999578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/badge-tag-logo.001.mat using Guid(fc0782cf619be56499b9d647f5999578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2bcfc2bd2487545537554afebbedfe2') in 0.018018 seconds
+  Import took 0.030145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Blender-import/blender-materials/light.003.mat
+  artifactKey: Guid(adc38b1b5271c4840ba486b531083bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender-import/blender-materials/light.003.mat using Guid(adc38b1b5271c4840ba486b531083bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524fa5e545f491998ecadfaf35d00e3f') in 0.014046 seconds
+  Import took 0.023767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 380.613112 seconds.
+  path: Assets/ENVIROMENT_FUT/Cops/uploads_files_780782_Jail.fbx
+  artifactKey: Guid(43f5244033496024d88ff567e4a822b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ENVIROMENT_FUT/Cops/uploads_files_780782_Jail.fbx using Guid(43f5244033496024d88ff567e4a822b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4862307ecd5db74a9612ef1e96fe10d') in 2.161898 seconds
+  Import took 2.189709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1318.007572 seconds.
+  path: Assets/ENVIROMENT_FUT/Cops/Decoration/arrow/glTF/textures/Arrow5_metallicRoughness.png
+  artifactKey: Guid(382e146b6ab1cf145809d92718e7c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ENVIROMENT_FUT/Cops/Decoration/arrow/glTF/textures/Arrow5_metallicRoughness.png using Guid(382e146b6ab1cf145809d92718e7c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf5b3c3b671e1ab5d6efee28870264e') in 0.466710 seconds
+  Import took 0.478833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/_Completed-Assets/Prefabs/CompleteTankExplosion.prefab
+  artifactKey: Guid(6bc6d0dd8b8428e4ca316513f2cf13c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Completed-Assets/Prefabs/CompleteTankExplosion.prefab using Guid(6bc6d0dd8b8428e4ca316513f2cf13c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f8ec85221bc89441256c8f35449b89') in 0.041481 seconds
+  Import took 0.068841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/_Completed-Assets/Prefabs/CompleteTank.prefab
+  artifactKey: Guid(756d3a6506f2f8241b4e8badde68567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Completed-Assets/Prefabs/CompleteTank.prefab using Guid(756d3a6506f2f8241b4e8badde68567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d688b6e2d3c88139245bb481c5647f') in 1.206243 seconds
+  Import took 1.233234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/CHARACTERS/Kevin Iglesias/Basic Motions Pack/Models/Basic Motions Dummy.fbx
+  artifactKey: Guid(5917c0e93d180a842b61d1ebc62a195c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CHARACTERS/Kevin Iglesias/Basic Motions Pack/Models/Basic Motions Dummy.fbx using Guid(5917c0e93d180a842b61d1ebc62a195c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9bbd57f1fe68c259045654691eefc49') in 0.118800 seconds
+  Import took 0.151039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 667.561859 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Concrete.mat
+  artifactKey: Guid(cfeb481f2c9aa5f429e1a23117fe109d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Concrete.mat using Guid(cfeb481f2c9aa5f429e1a23117fe109d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ecc18378f0c36ef939bb1bc1a9df68') in 0.084887 seconds
+  Import took 0.152874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Concrete 2.mat
+  artifactKey: Guid(f5afb3cf0014692499c6fe7f0368a9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Concrete 2.mat using Guid(f5afb3cf0014692499c6fe7f0368a9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e491bebc9d18aeb4364b03d87ab345') in 0.039265 seconds
+  Import took 0.058093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Concrete 1.mat
+  artifactKey: Guid(3d2ad0367d95c3244966589fe9f82955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Concrete 1.mat using Guid(3d2ad0367d95c3244966589fe9f82955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea35a1ebc9b7327d156d028759db707') in 0.028121 seconds
+  Import took 0.056946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Concrete.mat
+  artifactKey: Guid(cfeb481f2c9aa5f429e1a23117fe109d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Concrete.mat using Guid(cfeb481f2c9aa5f429e1a23117fe109d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ecc18378f0c36ef939bb1bc1a9df68') in 0.028195 seconds
+  Import took 0.038635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Concrete 1 URP.mat
+  artifactKey: Guid(3ff0bab9d73fb8b43818fbacd7427784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Concrete 1 URP.mat using Guid(3ff0bab9d73fb8b43818fbacd7427784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653c0660d3aeb895f7419d477d3f84f2') in 0.053122 seconds
+  Import took 0.080359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Concrete 2 URP.mat
+  artifactKey: Guid(67a6dd527efe87943a4e711e79b08f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Concrete 2 URP.mat using Guid(67a6dd527efe87943a4e711e79b08f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405453b33d8340110292f15a65d90b7d') in 0.038341 seconds
+  Import took 0.049051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000796 seconds.
+  path: Assets/Fake Interiors FREE/Examples/Materials/Concrete 3.mat
+  artifactKey: Guid(f3d50a51283c1614d93d5f0beb46cbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/Materials/Concrete 3.mat using Guid(f3d50a51283c1614d93d5f0beb46cbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8d339266f5d05ec283a0de671d2fc8') in 0.027668 seconds
+  Import took 0.050111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Concrete 3 URP.mat
+  artifactKey: Guid(aa3b948ac2c60d14e80ef0c2cc4b09ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Concrete 3 URP.mat using Guid(aa3b948ac2c60d14e80ef0c2cc4b09ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8fc8bf5deae7a2c6364fc02e17f5f0') in 0.026737 seconds
+  Import took 0.037710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/ConcreteURP.mat
+  artifactKey: Guid(3a106298c9641fa428a098b13d82fab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/ConcreteURP.mat using Guid(3a106298c9641fa428a098b13d82fab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ae944033c1b59cbae24c50639f6dd5') in 0.028934 seconds
+  Import took 0.041607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.624117 seconds.
+  path: Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_Building_Lit_URP.mat
+  artifactKey: Guid(08b2159479a8d914a82340ccb709f8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fake Interiors FREE/Examples/URP/Materials URP/Parallax_Building_Lit_URP.mat using Guid(08b2159479a8d914a82340ccb709f8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bd6faf90edf74f81b5e5b2b5c042690') in 0.083028 seconds
+  Import took 0.132480 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
